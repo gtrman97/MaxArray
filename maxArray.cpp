@@ -31,13 +31,6 @@ int main()
    return 0;
 }
 
-/*-------------------------------------------------------------------------
-  Display elements of any type (for which the output operator is defined)
-  stored in an array.
-
-  Precondition:  ElementType is a type parameter.
-  Postcondition: First numElements of array have been output to cout.
- ------------------------------------------------------------------------*/
 template <class ElementType>
 ElementType maxArray(ElementType array[], int first, int last)
 {
