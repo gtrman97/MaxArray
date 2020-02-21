@@ -1,6 +1,4 @@
 /*-------------------------------------------------------------------------
-   Name: Andrew Killian
-
    Program to illustrate the use of a function template to display
    the highest value in an unsorted array using recursion.
 
